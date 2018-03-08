@@ -1,0 +1,19 @@
+﻿
+@model List<string>
+
+@{
+    ViewBag.Title = "SearchQuery";
+}
+
+<h2>Result</h2>
+<button style="margin-top: 1px" onclick="location.href='@Url.Action("SearchQuery", "SearchPage")'">Back</button>
+
+
+<div>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item</li>
+        }
+    </ul>
+</div>

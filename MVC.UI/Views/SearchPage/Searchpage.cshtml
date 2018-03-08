@@ -1,0 +1,17 @@
+﻿
+@model MVC.UI.Models.LocationDetails
+
+
+@{
+    ViewBag.Title = "Searchpage";
+}
+
+<h2>Searchpage</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.Label("enter location")
+    @Html.TextBox("location")<br />
+    <button type="submit">Submit</button>
+}
