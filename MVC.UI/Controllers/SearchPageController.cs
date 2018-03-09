@@ -3,7 +3,7 @@ using System.Web.Mvc;
 using ITFounder.BussinessLogicLayer;
 using MVC.UI.Models;
 
-namespace MVC.UI.Controllers
+namespace ITFounder.UI
 {
     public class SearchPageController : Controller
     {
@@ -11,27 +11,24 @@ namespace MVC.UI.Controllers
         /// this method open the Searchpage where user can enter the location
         /// </summary>
         /// <returns></returns>
-        public ActionResult SearchQuery()
+        public ActionResult Search()
         {
-            var model = new LocationDetails();
+            var model = new LocationDetails();//TODO:remove
             return View("Searchpage", model);
         }
 
         /// <summary>
-        /// this method opens the result page where user see list of it comopanies
+        /// This method opens the result page where user see list of it comopanies
         /// this method is calling BussinessLogicLayer
         /// </summary>
         /// <param name="location">Location enter by user</param>
         /// <returns></returns>
         [HttpPost]
-        public ActionResult SearchQuery(string location)
+        public ActionResult Search(string location)
         {
-
-            BussinessLogic businessLogic = new BussinessLogic();
-            IList<string> _mCompNameAddress = businessLogic.ValidationOnSearchLocation(location);
-            var c = new CompanyDetails { Details = _mCompNameAddress };
-            return View("Result", _mCompNameAddress);
-
+            ValidateParseData validateparsedata= new ValidateParseData();
+            IList<string> companynameaddress = validateparsedata.ValidationOnLocation(location);
+            return View("Result", companynameaddress);
         }
 
     }

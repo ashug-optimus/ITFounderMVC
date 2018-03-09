@@ -12,7 +12,7 @@ namespace MVC.UI
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "SearchPage", action = "SearchQuery", id = UrlParameter.Optional }
+                defaults: new { controller = "SearchPage", action = "Search", id = UrlParameter.Optional }
             );
         }
     }

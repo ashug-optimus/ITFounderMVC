@@ -1,5 +1,6 @@
 C:\Users\sysadmin\source\repos\ITFounder\ITFounder.DataAccessLayer\bin\Debug\ITFounder.DataAccessLayer.dll
 C:\Users\sysadmin\source\repos\ITFounder\ITFounder.DataAccessLayer\bin\Debug\ITFounder.DataAccessLayer.pdb
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.DataAccessLayer\obj\Debug\ITFounder.DataAccessLayer.csprojResolveAssemblyReference.cache
 C:\Users\sysadmin\source\repos\ITFounder\ITFounder.DataAccessLayer\obj\Debug\ITFounder.DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\sysadmin\source\repos\ITFounder\ITFounder.DataAccessLayer\obj\Debug\ITFounder.DataAccessLayer.dll
 C:\Users\sysadmin\source\repos\ITFounder\ITFounder.DataAccessLayer\obj\Debug\ITFounder.DataAccessLayer.pdb

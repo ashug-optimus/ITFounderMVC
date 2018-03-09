@@ -1,5 +1,4 @@
 ﻿
-@model MVC.UI.Models.LocationDetails
 
 
 @{
@@ -8,10 +7,10 @@
 
 <h2>Searchpage</h2>
 
-
 @using (Html.BeginForm())
 {
-    @Html.Label("enter location")
+    @Html.Label("Enter location")
+
     @Html.TextBox("location")<br />
     <button type="submit">Submit</button>
 }

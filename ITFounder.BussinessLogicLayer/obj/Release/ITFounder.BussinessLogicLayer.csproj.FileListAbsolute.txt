@@ -1,0 +1,8 @@
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.BussinessLogicLayer\bin\Release\ITFounder.BussinessLogicLayer.dll
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.BussinessLogicLayer\bin\Release\ITFounder.BussinessLogicLayer.pdb
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.BussinessLogicLayer\bin\Release\ITFounder.DataAccessLayer.dll
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.BussinessLogicLayer\bin\Release\ITFounder.DataAccessLayer.pdb
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.BussinessLogicLayer\obj\Release\ITFounder.BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.BussinessLogicLayer\obj\Release\ITFounder.BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.BussinessLogicLayer\obj\Release\ITFounder.BussinessLogicLayer.dll
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.BussinessLogicLayer\obj\Release\ITFounder.BussinessLogicLayer.pdb

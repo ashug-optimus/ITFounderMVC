@@ -7,10 +7,10 @@ namespace MVC.UI.Models
     {
         public LocationDetails()
         {
-            location = string.Empty;
+            Location = string.Empty;
         }
 
-        public string location { get; set; }
+        public string Location { get; set; }
     }
 
     public class CompanyDetails

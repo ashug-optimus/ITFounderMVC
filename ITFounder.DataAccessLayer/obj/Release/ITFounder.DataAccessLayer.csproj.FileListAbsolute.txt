@@ -1,0 +1,5 @@
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.DataAccessLayer\bin\Release\ITFounder.DataAccessLayer.dll
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.DataAccessLayer\bin\Release\ITFounder.DataAccessLayer.pdb
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.DataAccessLayer\obj\Release\ITFounder.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.DataAccessLayer\obj\Release\ITFounder.DataAccessLayer.dll
+C:\Users\sysadmin\source\repos\ITFounder\ITFounder.DataAccessLayer\obj\Release\ITFounder.DataAccessLayer.pdb
